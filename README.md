@@ -63,8 +63,10 @@
 <div style="display: flex; flex-direction: column; align-items: center; gap: 10px; width: 100%;">
    
    <div style="display: flex; justify-content: space-around; width: 100%; max-width: 600px;">
-         <img src="https://img.shields.io/github/followers/tristan-8021?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="My GitHub followers" style="width: 20%;" />
-         <img src="https://komarev.com/ghpvc/?username=tristan-8021&label=Profile%20views&color=0891b2&style=for-the-badge&labelColor=1c1917" alt="My GitHub views" style="width: 20%;" />
+         <img src="https://komarev.com/ghpvc/?username=tristan-8021&label=Profile%20views&color=0891b2&style=for-the-badge&labelColor=1c1917" alt="My GitHub views" style="width: 50%;" />
+    </div>
+     <div style="display: flex; justify-content: space-around; width: 100%; max-width: 600px;">
+         <img src="https://komarev.com/ghpvc/?username=tristan-8021&label=Profile%20views&color=0891b2&style=for-the-badge&labelColor=1c1917" alt="My GitHub views" style="width: 50%;" />
     </div>
     <div style="width: 100%; max-width: 600px;">
          <img src="https://github-readme-stats.vercel.app/api?username=tristan-8021&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="My GitHub stats" style="width: 50%;" />
