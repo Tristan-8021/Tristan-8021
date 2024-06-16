@@ -16,7 +16,7 @@
    <img src="https://komarev.com/ghpvc/?username=tristan-8021&label=Profile%20views&color=0e75b6&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="tristan-8021" />
 </p>
 
-<p>;
+<p>
     <img src="https://github-readme-stats.vercel.app/api?username=tristan-8021&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="My GitHub stats" />
 </p>
 
