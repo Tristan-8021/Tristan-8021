@@ -7,11 +7,18 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+<p align="left">
+
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" 
+
+</p>
+
 <h3 align="left">My GitHub Stats:</h3>
 
 <p>
    <img src="https://img.shields.io/github/followers/tristan-8021?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </p>
+
 <p>
    <img src="https://komarev.com/ghpvc/?username=tristan-8021&label=Profile%20views&color=0891b2&style=for-the-badge&labelColor=1c1917" alt="My GitHub views" />
 </p>
