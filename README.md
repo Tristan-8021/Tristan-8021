@@ -13,7 +13,7 @@
    <img src="https://img.shields.io/github/followers/tristan-8021?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </p>
 <p>
-   <img src="https://komarev.com/ghpvc/?username=tristan-8021&label=Profile%20views&color=0e75b6&style=flat" alt="tristan-8021" />
+   <img src="https://komarev.com/ghpvc/?username=tristan-8021&label=Profile%20views&color=0e75b6&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="tristan-8021" />
 </p>
 
 <p>&nbsp;
