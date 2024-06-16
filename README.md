@@ -60,8 +60,8 @@
 
 <h3 align="left">My GitHub Stats:</h3>
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 10px; width: 5%;">
-    <div style="width: 100%; max-width: 600px;">
+<div style="display: flex; flex-direction: column; align-items: center; gap: 10px; width: 100%;">
+    <div style="width: 5%; max-width: 600px;">
         <img src="https://img.shields.io/github/followers/tristan-8021?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="My GitHub followers" style="width: 100%;" />
     </div>
     <div style="width: 100%; max-width: 600px;">
