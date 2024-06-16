@@ -61,7 +61,7 @@
 <h3 align="left">My GitHub Stats:</h3>
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 10px; width: 100%;">
-   <div style="display: flex; justify-content: space-between; width: 100%; max-width: 600px;">
+   <div style="display: flex; justify-content: space-around; width: 100%; max-width: 600px;">
          <img src="https://img.shields.io/github/followers/tristan-8021?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="My GitHub followers" style="width: 20%;" />
          <img src="https://komarev.com/ghpvc/?username=tristan-8021&label=Profile%20views&color=0891b2&style=for-the-badge&labelColor=1c1917" alt="My GitHub views" style="width: 20%;" />
     </div>
