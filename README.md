@@ -62,6 +62,7 @@
 
 <p>
    <img src="https://img.shields.io/github/followers/tristan-8021?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+   <img src="https://komarev.com/ghpvc/?username=tristan-8021&label=Profile%20views&color=0891b2&style=for-the-badge&labelColor=1c1917" alt="My GitHub views" />
 </p>
 
 <p>
